@@ -1,0 +1,6 @@
+framework module ARGame {
+  umbrella header "ARGame-umbrella.h"
+
+  export *
+  module * { export * }
+}

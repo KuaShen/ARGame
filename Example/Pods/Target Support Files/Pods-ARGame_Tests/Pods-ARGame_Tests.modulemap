@@ -1,0 +1,6 @@
+framework module Pods_ARGame_Tests {
+  umbrella header "Pods-ARGame_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
